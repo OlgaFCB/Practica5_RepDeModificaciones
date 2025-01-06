@@ -214,6 +214,10 @@ main{
     justify-content: center;
 }
 
+#searchLabel{
+    display: none;
+}
+
 #rightMenu{
     width: 100%;
     display: flex;
